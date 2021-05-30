@@ -20,10 +20,10 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
-  resume: '/my_resume.html', // if no resume, the button will not show up
+  paragraphOne: "Hello! My name is Swagat and I enjoy creating things that live on the internet. My interest in web development started back in 2019 when I decided to try editing custom Bootstrap themes — turns out experimental editing in a custom templates or say snippets taught me a lot about HTML & CSS! The interest and excitement in coding started to develop in my mind. Further, i started to learn backend from which i gained the knowledge about dymanic data handling, interconnecting frontend and backend.",
+  paragraphTwo: "Fast-forward to today, and I've had the privilege of working as developer in a start-up, a huge corporation, and a student-led design studio. My main focus these days is building accessible, inclusive products and digital experiences.",
+  paragraphThree: "I'm a Full-stack web developer currently working as a associate software developer.",
+  resume: 'resume', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
