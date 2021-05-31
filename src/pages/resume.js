@@ -66,7 +66,7 @@ export default function Resume(){
                                         <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{height:"10px" ,width:"50%"}}></div>
                                     </div><br/>
 
-                                    <p>HTML/CSS</p>
+                                    <p>HTML/CSS/SCSS/SASS</p>
                                     <div class="w3-light-grey w3-round-xlarge w3-small">
                                         <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{height:"10px" ,width:"65%"}}></div>
                                     </div>
