@@ -48,27 +48,27 @@ export default function Resume(){
                                                 class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
                                     <p>Core Python</p>
                                     <div class="w3-light-grey w3-round-xlarge w3-small">
-                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{width:"40%"}}>40%</div>
+                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{height:"10px" ,width:"40%"}}></div>
                                     </div><br/>
 
                                     <p>Django</p>
                                     <div class="w3-light-grey w3-round-xlarge w3-small">
-                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{width:"60%"}}>60%</div>
+                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{height:"10px" ,width:"60%"}}></div>
                                     </div><br/>
 
                                     <p>Django Rest Framework</p>
                                     <div class="w3-light-grey w3-round-xlarge w3-small">
-                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{width:"70%"}}>70%</div>
+                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{height:"10px" ,width:"70%"}}></div>
                                     </div><br/>
 
                                     <p>Angular</p>
                                     <div class="w3-light-grey w3-round-xlarge w3-small">
-                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{width:"50%"}}>50%</div>
+                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{height:"10px" ,width:"50%"}}></div>
                                     </div><br/>
 
                                     <p>HTML/CSS</p>
                                     <div class="w3-light-grey w3-round-xlarge w3-small">
-                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{width:"65%"}}>65%</div>
+                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{height:"10px" ,width:"65%"}}></div>
                                     </div>
                                     <br/>
 
@@ -77,27 +77,27 @@ export default function Resume(){
 
                                     <p>GIT</p>
                                     <div class="w3-light-grey w3-round-xlarge w3-small">
-                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{ width:"60%"}}>60%</div>
+                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{ height:"10px" ,width:"60%"}}></div>
                                     </div><br/>
 
                                     <p>postgreSQL</p>
                                     <div class="w3-light-grey w3-round-xlarge w3-small">
-                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{width:"50%"}}>50%</div>
+                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{height:"10px" ,width:"50%"}}></div>
                                     </div><br/>
 
                                     <p>JAVA | spring framework</p>
                                     <div class="w3-light-grey w3-round-xlarge w3-small">
-                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{width:"20%"}}>20%</div>
+                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{height:"10px" ,width:"20%"}}></div>
                                     </div><br/>
 
                                     <p>Wordpress</p>
                                     <div class="w3-light-grey w3-round-xlarge w3-small">
-                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{width:"40%"}}>40%</div>
+                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{height:"10px" ,width:"40%"}}></div>
                                     </div><br/>
 
                                     <p>React JS | Gatsby framework</p>
                                     <div class="w3-light-grey w3-round-xlarge w3-small">
-                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{width:"15%"}}>15%</div>
+                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{height:"10px" ,width:"15%"}}></div>
                                     </div>
                                     <br/>
                                 </div>
