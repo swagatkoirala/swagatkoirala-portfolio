@@ -160,15 +160,21 @@ export default function Resume(){
                                 <h2 class="w3-text-grey w3-padding-16"><i
                                         class="fa fa-folder-open fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Projects</h2>
                                 <div class="w3-container">
+                                    <h5 class="w3-opacity"><b>Computer Pasal</b></h5>
+                                    <h6 class="w3-text-teal"><i class="fa fa-code fa-fw w3-margin-right"></i>Python/Django and HTML/CSS</h6>
+                                    <a style={{fontSize:"15px"}} target={"_blank"} href="http://computerpasal.pythonanywhere.com/"><i class="fa fa-globe fa-fw w3-margin-right"></i>Live Preview</a>
+                                    <hr/>
+                                </div>
+                                <div class="w3-container">
                                     <h5 class="w3-opacity"><b>Internalaya</b></h5>
                                     <h6 class="w3-text-teal"><i class="fa fa-code fa-fw w3-margin-right"></i>Python/Django and vue.js</h6>
                                     <a style={{fontSize:"15px"}} target={"_blank"} href="https://www.internalaya.com/"><i class="fa fa-globe fa-fw w3-margin-right"></i>Live Preview</a>
                                     <hr/>
                                 </div>
                                 <div class="w3-container">
-                                    <h5 class="w3-opacity"><b>Computer Pasal</b></h5>
-                                    <h6 class="w3-text-teal"><i class="fa fa-code fa-fw w3-margin-right"></i>Python/Django and HTML/CSS</h6>
-                                    <a style={{fontSize:"15px"}} target={"_blank"} href="http://computerpasal.pythonanywhere.com/"><i class="fa fa-globe fa-fw w3-margin-right"></i>Live Preview</a>
+                                    <h5 class="w3-opacity"><b>Nepal Invests</b></h5>
+                                    <h6 class="w3-text-teal"><i class="fa fa-code fa-fw w3-margin-right"></i>Python/Django and Angular</h6>
+                                    <a style={{fontSize:"15px"}} target={"_blank"} href="https://www.nepalinvests.com/"><i class="fa fa-globe fa-fw w3-margin-right"></i>Live Preview</a>
                                     <hr/>
                                 </div>
                             </div>

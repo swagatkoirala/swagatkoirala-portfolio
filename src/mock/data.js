@@ -27,9 +27,19 @@ export const aboutData = {
 };
 
 // PROJECTS DATA
-export const projectsData = [{
+export const projectsData = [
+  {
     id: nanoid(),
-    img: 'project1.png',
+    img: 'project3.png',
+    title: 'Nepal Invests',
+    info: 'Nepal Invests is your window to invest in Nepal and will contain all the relevant resources to help you get started, scale up, raise capital and grow your business in Nepal.',
+    info2: '',
+    url: 'https://nepalinvests.com',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project2.png',
     title: 'Internalaya',
     info: 'The idea is to create a bridge between the gap that exists between "Bidhyalaya" (school/formal education) and "Karyalaya" (office/career/real-life work) by providing paid and purposeful internships to help youngsters explore the area of their interests and determine their career path.',
     info2: '',
@@ -38,13 +48,14 @@ export const projectsData = [{
   },
   {
     id: nanoid(),
-    img: 'project2.png',
+    img: 'project1.png',
     title: 'Computer Pasal',
     info: 'The idea is to become a platform for enabling and ensuring wide access reach of world-class technology in the country. This site aim to introduce constant new, and intriguing products/ gadgets /accessories which will encourage the customer to return regularly.',
     info2: '',
     url: 'http://computerpasal.pythonanywhere.com/',
     repo: 'https://github.com/swagatkoirala/Computer-Pasal', // if no repo, the button will not show up
   },
+  
 
 ];
 
