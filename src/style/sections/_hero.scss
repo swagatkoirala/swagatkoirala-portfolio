@@ -5,7 +5,7 @@
   background: $dark-grey;
   font-weight: 400;
   color:$white-color;
-  padding: 0rem 5.6rem;
+  padding: 0rem 5.9rem;
   margin-bottom: 0;
   top: 0;
   left: 0;
@@ -37,11 +37,11 @@
       text-align: center;
     }
     @include respond(phone) {
-      font-size: 3.5rem;
+      font-size: 3.4rem;
       line-height: 1.5;
     }
     @include respond(phone-xs) {
-      font-size: 2.8rem;
+      font-size: 3rem;
     }
   }
 
