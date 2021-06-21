@@ -82,7 +82,7 @@ const particlesConfig = {
     },
     modes: {
       grab: {
-        distance: 400,
+        distance: 230,
         line_linked: {
           opacity: 1,
         },
