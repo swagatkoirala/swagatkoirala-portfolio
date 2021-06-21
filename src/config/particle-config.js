@@ -4,7 +4,7 @@ const particlesConfig = {
       value: 120,
       density: {
         enable: true,
-        value_area: 1200,
+        value_area: 800,
       },
     },
     color: {
@@ -17,27 +17,32 @@ const particlesConfig = {
         color: '#000000',
       },
       polygon: {
-        nb_sides: 4,
+        nb_sides: 5,
+      },
+      image: {
+        src: 'img/github.svg',
+        width: 100,
+        height: 100,
       },
     },
     opacity: {
       value: 0.5,
-      random: true,
+      random: false,
       anim: {
         enable: true,
-        speed: 0.1,
+        speed: 1,
         opacity_min: 0.1,
         sync: false,
       },
     },
     size: {
-      value: 3,
+      value: 3.5,
       random: true,
       anim: {
         enable: true,
-        speed: 0.1,
-        size_min: 0.1,
-        sync: true,
+        speed: 18,
+        size_min: 0,
+        sync: false,
       },
     },
     line_linked: {
@@ -49,11 +54,11 @@ const particlesConfig = {
     },
     move: {
       enable: true,
-      speed: 0.6,
+      speed: 6,
       direction: 'none',
-      random: false,
+      random: true,
       straight: false,
-      out_mode: 'out',
+      out_mode: 'bounce',
       bounce: false,
       attract: {
         enable: false,
@@ -63,7 +68,7 @@ const particlesConfig = {
     },
   },
   interactivity: {
-    detect_on: 'windows',
+    detect_on: 'window',
     events: {
       onhover: {
         enable: true,
@@ -77,7 +82,7 @@ const particlesConfig = {
     },
     modes: {
       grab: {
-        distance: 200,
+        distance: 400,
         line_linked: {
           opacity: 1,
         },
