@@ -54,7 +54,7 @@ const particlesConfig = {
     },
     move: {
       enable: true,
-      speed: 0.7,
+      speed: 0.6,
       direction: 'none',
       random: true,
       straight: false,
@@ -75,14 +75,14 @@ const particlesConfig = {
         mode: 'grab',
       },
       onclick: {
-        enable: true,
+        enable: false,
         mode: 'push',
       },
       resize: true,
     },
     modes: {
       grab: {
-        distance: 230,
+        distance: 210,
         line_linked: {
           opacity: 1,
         },
@@ -95,11 +95,11 @@ const particlesConfig = {
         speed: 3,
       },
       repulse: {
-        distance: 200,
+        distance: 100,
         duration: 0.4,
       },
       push: {
-        particles_nb: 4,
+        particles_nb: 1,
       },
       remove: {
         particles_nb: 2,
