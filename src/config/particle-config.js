@@ -75,8 +75,8 @@ const particlesConfig = {
         mode: 'grab',
       },
       onclick: {
-        enable: false,
-        mode: 'push',
+        enable: true,
+        mode: 'repulse',
       },
       resize: true,
     },
@@ -95,7 +95,7 @@ const particlesConfig = {
         speed: 3,
       },
       repulse: {
-        distance: 100,
+        distance: 80,
         duration: 0.4,
       },
       push: {
