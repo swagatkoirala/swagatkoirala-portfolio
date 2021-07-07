@@ -27,7 +27,7 @@ export default function Resume(){
 
                             <div class="w3-white w3-text-grey w3-card-4">
                                 <div class="w3-display-container">
-                                    <img src="https://scontent.fktm10-1.fna.fbcdn.net/v/t1.6435-9/177614585_111705671047296_3938329687955614318_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=yNolARPtMWIAX_7zyNP&_nc_ht=scontent.fktm10-1.fna&oh=20fcb0ace4ec0e9e3246e6609f5d90ed&oe=60D7A248"
+                                    <img src="https://scontent.fktm7-1.fna.fbcdn.net/v/t1.6435-9/177614585_111705671047296_3938329687955614318_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=cnC02nNYt2AAX9Mr9ah&_nc_ht=scontent.fktm7-1.fna&oh=9827aab44fdd953bbbc3f704d41a3d53&oe=60EB68C8"
                                         style={{width:"100%"}} alt="Avatar"/>
                                     <div class="w3-display-bottomleft w3-container w3-text-white">
                                         <h2>Swagat Koirala</h2>
@@ -51,19 +51,14 @@ export default function Resume(){
                                         <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{height:"10px" ,width:"40%"}}></div>
                                     </div><br/>
 
-                                    <p>Django</p>
-                                    <div class="w3-light-grey w3-round-xlarge w3-small">
-                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{height:"10px" ,width:"60%"}}></div>
-                                    </div><br/>
-
-                                    <p>Django Rest Framework</p>
+                                    <p>Django | Django Rest Framework</p>
                                     <div class="w3-light-grey w3-round-xlarge w3-small">
                                         <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{height:"10px" ,width:"70%"}}></div>
                                     </div><br/>
 
-                                    <p>Angular</p>
+                                    <p>Angular JS</p>
                                     <div class="w3-light-grey w3-round-xlarge w3-small">
-                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{height:"10px" ,width:"50%"}}></div>
+                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{height:"10px" ,width:"60%"}}></div>
                                     </div><br/>
 
                                     <p>HTML/CSS/SCSS/SASS</p>
@@ -87,7 +82,7 @@ export default function Resume(){
 
                                     <p>JAVA | spring framework</p>
                                     <div class="w3-light-grey w3-round-xlarge w3-small">
-                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{height:"10px" ,width:"20%"}}></div>
+                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{height:"10px" ,width:"15%"}}></div>
                                     </div><br/>
 
                                     <p>Wordpress</p>
@@ -95,9 +90,9 @@ export default function Resume(){
                                         <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{height:"10px" ,width:"40%"}}></div>
                                     </div><br/>
 
-                                    <p>React JS | Gatsby framework</p>
+                                    <p>React JS</p>
                                     <div class="w3-light-grey w3-round-xlarge w3-small">
-                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{height:"10px" ,width:"15%"}}></div>
+                                        <div class="w3-container w3-center w3-round-xlarge w3-teal" style={{height:"10px" ,width:"25%"}}></div>
                                     </div>
                                     <br/>
                                 </div>
@@ -167,13 +162,19 @@ export default function Resume(){
                                 </div>
                                 <div class="w3-container">
                                     <h5 class="w3-opacity"><b>Internalaya</b></h5>
-                                    <h6 class="w3-text-teal"><i class="fa fa-code fa-fw w3-margin-right"></i>Python/Django and vue.js</h6>
+                                    <h6 class="w3-text-teal"><i class="fa fa-code fa-fw w3-margin-right"></i>Python/Django and Vue JS</h6>
                                     <a style={{fontSize:"15px"}} target={"_blank"} href="https://www.internalaya.com/"><i class="fa fa-globe fa-fw w3-margin-right"></i>Live Preview</a>
                                     <hr/>
                                 </div>
                                 <div class="w3-container">
+                                    <h5 class="w3-opacity"><b>My Portfolio</b></h5>
+                                    <h6 class="w3-text-teal"><i class="fa fa-code fa-fw w3-margin-right"></i>React JS</h6>
+                                    <a style={{fontSize:"15px"}} target={"_blank"} href="https://swagatkoirala.com.np/"><i class="fa fa-globe fa-fw w3-margin-right"></i>Live Preview</a>
+                                    <hr/>
+                                </div>
+                                <div class="w3-container">
                                     <h5 class="w3-opacity"><b>Nepal Invests</b></h5>
-                                    <h6 class="w3-text-teal"><i class="fa fa-code fa-fw w3-margin-right"></i>Python/Django and Angular</h6>
+                                    <h6 class="w3-text-teal"><i class="fa fa-code fa-fw w3-margin-right"></i>Python/Django and Angular JS</h6>
                                     <a style={{fontSize:"15px"}} target={"_blank"} href="https://www.nepalinvests.com/"><i class="fa fa-globe fa-fw w3-margin-right"></i>Live Preview</a>
                                     <hr/>
                                 </div>
