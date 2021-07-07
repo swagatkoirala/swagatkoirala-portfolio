@@ -1,6 +1,4 @@
-import {
-  nanoid
-} from 'nanoid';
+import { nanoid } from 'nanoid';
 
 // HEAD DATA
 export const headData = {
@@ -20,9 +18,12 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: "Hello! My name is Swagat and I enjoy creating things that live on the internet. My interest in web development started back in 2019 when I decided to try editing custom Bootstrap themes — turns out experimental editing in a custom templates or say snippets taught me a lot about HTML & CSS! The interest and excitement in coding started to develop in my mind. Further, i started to learn backend from which i gained the knowledge about dymanic data handling, interconnecting frontend and backend.",
-  paragraphTwo: "Fast-forward to today, and I've had the privilege of working as developer in a start-up, a huge corporation, and a student-led design studio. My main focus these days is building accessible, inclusive products and digital experiences.",
-  paragraphThree: "I'm a Full-stack web developer currently working as a associate software developer.",
+  paragraphOne:
+    'Hello! My name is Swagat and I enjoy creating things that live on the internet. My interest in web development started back in 2019 when I decided to try editing custom Bootstrap themes — turns out experimental editing in a custom templates or say snippets taught me a lot about HTML & CSS! The interest and excitement in coding started to develop in my mind. Further, i started to learn backend from which i gained the knowledge about dymanic data handling, interconnecting frontend and backend.',
+  paragraphTwo:
+    "Fast-forward to today, and I've had the privilege of working as developer in a start-up, a huge corporation, and a student-led design studio. My main focus these days is building accessible, inclusive products and digital experiences.",
+  paragraphThree:
+    "I'm a Full-stack web developer currently working as a associate software developer.",
   resume: 'resume', // if no resume, the button will not show up
 };
 
@@ -30,11 +31,20 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project3.png',
+    img: 'project4.png',
     title: 'Nepal Invests',
     info: 'Nepal Invests is your window to invest in Nepal and will contain all the relevant resources to help you get started, scale up, raise capital and grow your business in Nepal.',
     info2: '',
     url: 'https://nepalinvests.com',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project3.png',
+    title: 'My Portfolio',
+    info: 'The idea is to create a simple UI showing my details in this portpolio website.',
+    info2: '',
+    url: 'https://swagatkoirala.com.np',
     repo: '', // if no repo, the button will not show up
   },
   {
@@ -55,8 +65,6 @@ export const projectsData = [
     url: 'http://computerpasal.pythonanywhere.com/',
     repo: 'https://github.com/swagatkoirala/Computer-Pasal', // if no repo, the button will not show up
   },
-  
-
 ];
 
 // CONTACT DATA
@@ -68,7 +76,8 @@ export const contactData = {
 
 // FOOTER DATA
 export const footerData = {
-  networks: [{
+  networks: [
+    {
       id: nanoid(),
       name: 'github',
       url: 'https://www.github.com/swagatkoirala/',
@@ -88,6 +97,5 @@ export const footerData = {
       name: 'instagram',
       url: 'https://www.instagram.com/swagat_koirala/',
     },
-
   ],
 };
