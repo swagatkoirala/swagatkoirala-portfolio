@@ -25,7 +25,7 @@ export default function ParticleBackground() {
   loaded = {
     particlesLoaded
   }
-  options = {
+  params = {
     particlesConfig
   }
   />;
