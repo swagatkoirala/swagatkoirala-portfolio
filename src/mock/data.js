@@ -18,6 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
+  resume: 'swagat_koirala_resume.pdf',
   paragraphOne:
     'Hello! My name is Swagat and I enjoy creating things that live on the internet. My interest in web development started back in 2019 when I decided to try editing custom Bootstrap themes — turns out experimental editing in a custom templates or say snippets taught me a lot about HTML & CSS! The interest and excitement in coding started to develop in my mind. Further, i started to learn backend from which i gained the knowledge about dymanic data handling, interconnecting frontend and backend.',
   paragraphTwo:
@@ -29,6 +30,33 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: nanoid(),
+    img: 'project7.png',
+    title: 'Byakhya',
+    info: 'Byakhya is Nepal’s first ads free, subscribers only online business journalism initiative. We deliver authentic and meaningful insights on Nepal’s economy and business sector through well-researched crisply narrated stories to investors, entrepreneurs, business persons, leaders, business executives and professionals!',
+    info2: '',
+    url: 'https://byakhya.com',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project6.png',
+    title: 'Kisan Sanjal',
+    info: 'Kisan Sanjal is an online platform where kisan’s and agriculture based professionals can interact with each other.',
+    info2: '',
+    url: 'https://kisansanjal.com',
+    repo: '', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'project5.png',
+    title: 'Smart Wakil',
+    info: 'Smart Wakil is an online platform where lawyers and prospective clients can connect with each other to avail various legal services in a simple, transparent and cost-effective manner.',
+    info2: '',
+    url: 'https://smartwakil.com',
+    repo: '', // if no repo, the button will not show up
+  },
   {
     id: nanoid(),
     img: 'project4.png',
