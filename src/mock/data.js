@@ -32,29 +32,11 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project7.png',
-    title: 'Byakhya',
-    info: 'Byakhya is Nepal’s first ads free, subscribers only online business journalism initiative. We deliver authentic and meaningful insights on Nepal’s economy and business sector through well-researched crisply narrated stories to investors, entrepreneurs, business persons, leaders, business executives and professionals!',
-    info2: '',
-    url: 'https://byakhya.com',
-    repo: '', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project6.png',
-    title: 'Kisan Sanjal',
-    info: 'Kisan Sanjal is an online platform where kisan’s and agriculture based professionals can interact with each other.',
-    info2: '',
-    url: 'https://kisansanjal.com',
-    repo: '', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
     img: 'project5.png',
-    title: 'Smart Wakil',
-    info: 'Smart Wakil is an online platform where lawyers and prospective clients can connect with each other to avail various legal services in a simple, transparent and cost-effective manner.',
+    title: 'Lexpertease',
+    info: 'Lexpertease is an online platform where lawyers and prospective clients can connect with each other to avail various legal services in a simple, transparent and cost-effective manner.',
     info2: '',
-    url: 'https://smartwakil.com',
+    url: 'https://www.lexpertease.com/',
     repo: '', // if no repo, the button will not show up
   },
   {
@@ -90,7 +72,7 @@ export const projectsData = [
     title: 'Computer Pasal',
     info: 'The idea is to become a platform for enabling and ensuring wide access reach of world-class technology in the country. This site aim to introduce constant new, and intriguing products/ gadgets /accessories which will encourage the customer to return regularly.',
     info2: '',
-    url: 'http://computerpasal.pythonanywhere.com/',
+    url: '',
     repo: 'https://github.com/swagatkoirala/Computer-Pasal', // if no repo, the button will not show up
   },
 ];
