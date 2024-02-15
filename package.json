@@ -1,7 +1,7 @@
 {
   "name": "Swagat-Koirala-Portfolio",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "A portfolio website by Swagat Koirala.",
   "version": "0.1.0",
   "license": "MIT",
   "scripts": {
@@ -32,6 +32,7 @@
     "react-dom": "^16.13.1",
     "react-github-btn": "^1.2.0",
     "react-helmet": "^6.1.0",
+    "react-pdf": "^7.7.0",
     "react-reveal": "^1.2.2",
     "react-scroll": "^1.7.16",
     "react-tilt": "^0.1.4",
@@ -40,9 +41,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-hello-world"
+    "url": "https://github.com/swagat-koirala/swagat-koirala-portfolio"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/swagat-koirala/swagat-koirala-portfolio/issues"
   }
 }

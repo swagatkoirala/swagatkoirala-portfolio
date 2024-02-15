@@ -27,7 +27,7 @@ export default function Resume(){
 
                             <div class="w3-white w3-text-grey w3-card-4">
                                 <div class="w3-display-container">
-                                    <img src="https://scontent.fktm7-1.fna.fbcdn.net/v/t1.6435-9/177614585_111705671047296_3938329687955614318_n.jpg?_nc_cat=102&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=cnC02nNYt2AAX9Mr9ah&_nc_ht=scontent.fktm7-1.fna&oh=9827aab44fdd953bbbc3f704d41a3d53&oe=60EB68C8"
+                                    <img src="https://swagatkoirala.com.np/static/ef275be466fbce4884eb97c04d570811/9a128/profile.jpg"
                                         style={{width:"100%"}} alt="Avatar"/>
                                     <div class="w3-display-bottomleft w3-container w3-text-white">
                                         <h2>Swagat Koirala</h2>

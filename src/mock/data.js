@@ -42,19 +42,10 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project4.png',
-    title: 'Nepal Invests',
-    info: 'Nepal Invests is your window to invest in Nepal and will contain all the relevant resources to help you get started, scale up, raise capital and grow your business in Nepal.',
+    title: 'Suyatra',
+    info: 'Authentic, first hand information from fellow trekkers, travelers!',
     info2: '',
-    url: 'https://nepalinvests.com',
-    repo: '', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project3.png',
-    title: 'My Portfolio',
-    info: 'The idea is to create a simple UI showing my details in this portpolio website.',
-    info2: '',
-    url: 'https://swagatkoirala.com.np',
+    url: 'https://suyatra.com',
     repo: '', // if no repo, the button will not show up
   },
   {
