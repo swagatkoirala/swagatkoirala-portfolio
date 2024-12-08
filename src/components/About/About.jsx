@@ -55,7 +55,7 @@ const About = () => {
                       rel="noopener noreferrer"
                       className="cta-btn cta-btn--resume"
                       href={resume}>
-                      Resume
+                      AZURE
                     </a>
                   </span>
                 )}
