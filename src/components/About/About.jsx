@@ -51,11 +51,11 @@ const About = () => {
                 {resume && (
                   <span className="d-flex mt-3">
                     <a
+                      href="https://cvws.icloud-content.com/B/AY_LXY02mnUBo8cMcGsPXlsCnF6SAa_kRmPlykXktnTIlTncslapXdR3/SwagatKoiralaResume.pdf?o=AmwkRC8Yxkv0eRxMOc5KRmb56mxaYgxbIV7YbwDKB08V&v=1&x=3&a=CAogwiz4zSiRWiMMS4_xftb5u9uSaCVU0dIezybOaDhgrvkSbxCExqeGwTIYhKODiMEyIgEAUgQCnF6SWgSpXdR3aiccv2WVcQ7Kw0-ZOKc1aPmJ3k2g5IXeXrkGkBYAwFeehhflrazU589yJ4b_pRT1D1XnvErnO7zpVThUXeuT0gm16cbZ2UP7MujyXGbxPioJ-g&e=1735452053&fl=&r=4b88ade4-7060-4968-812e-2faabdef399a-1&k=sTH7GJpSVXEfNQWopueb7g&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=71&s=jv7Z03EMDylyIXlBThLZtFU6kcc&cd=i"
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="cta-btn cta-btn--resume"
-                      href={resume}>
-                      AZURE
+                      className="cta-btn cta-btn--resume">
+                      View Resume
                     </a>
                   </span>
                 )}
